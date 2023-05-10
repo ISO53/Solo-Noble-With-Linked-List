@@ -8,7 +8,7 @@ Solo Noble is a game where the board consists of a number of pieces and the obje
 
 # How to Run?
 1. Clone this repository to your local machine.
-2 .Open a terminal and navigate to the project directory.
+2. Open a terminal and navigate to the project directory.
 3. On the project directory type:
 ```
 mvn clean package
